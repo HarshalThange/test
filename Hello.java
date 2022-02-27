@@ -4,5 +4,4 @@ public class Hello {
        System.out.println("Hello, World");
         System.out.println("Triggering one new job from Pune");
     }
-
 }
